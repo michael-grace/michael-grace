@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hey, I'm Michael.
 
-I'm currently an undergraduate Computer Science and Mathematics student at the University of York, U.K., and part of the @UniversityRadioYork Computing team, developing and maintaing our systems to allow people to host and present radio shows. 
+I'm currently an undergraduate Computer Science and Mathematics student at the University of York, U.K., and part of the [@UniversityRadioYork](github.com/UniversityRadioYork) Computing team, developing and maintaing our systems to allow people to host and present radio shows. 
 
 - Primarily interested in back-end code and system software, with system administration experience,
 - Proficient in Go, Python and Java, and comfortable in basic web-development tools,
