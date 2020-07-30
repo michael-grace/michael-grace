@@ -30,7 +30,5 @@ I'm currently an undergraduate Computer Science and Mathematics student at the U
 - Can quit Vim.
 
 ![<Stats>](https://github-readme-stats.vercel.app/api?username=michael-grace&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-grace)
  
 💻📻
