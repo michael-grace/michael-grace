@@ -28,5 +28,9 @@ I'm currently an undergraduate Computer Science and Mathematics student at the U
 - Scared of snakes despite liking Python
 - Never realised as a kid that "readme" literally spelt "read me". I thought it was some weird file name for something you shouldn't touch. I also never realised as a kid that "mailto" was "mail to". Read it as "malito" for a very long time, and thought that was some 80's e-mail technical phrase.
 - Can quit Vim.
+
+![<Stats>](https://github-readme-stats.vercel.app/api?username=michael-grace&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-grace)
  
 💻📻
