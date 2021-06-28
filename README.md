@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Hey, I'm Michael.
 
+###### he/him
+
 I'm currently an undergraduate Computer Science and Mathematics student at the University of York, U.K., and part of the [@UniversityRadioYork](https://www.github.com/UniversityRadioYork) Computing team, developing and maintaing our systems to allow people to host and present radio shows. 
 
-- Primarily interested in back-end code and system software, with system administration experience,
-- Proficient in Go, Python and Java, and comfortable in basic web-development tools,
-- Currently working to improve in C/C++ and Kotlin.
+Proficient in Python and Go, and can make my way around web dev, including JavaScript and PHP.
  
 ##### Extra Bits
 
@@ -29,6 +29,6 @@ I'm currently an undergraduate Computer Science and Mathematics student at the U
 - Never realised as a kid that "readme" literally spelt "read me". I thought it was some weird file name for something you shouldn't touch. I also never realised as a kid that "mailto" was "mail to". Read it as "malito" for a very long time, and thought that was some 80's e-mail technical phrase.
 - Can quit Vim.
 
-![<Stats>](https://github-readme-stats.vercel.app/api?username=michael-grace&show_icons=true)
+<!-- ![<Stats>](https://github-readme-stats.vercel.app/api?username=michael-grace&show_icons=true) -->
  
 💻📻
